@@ -3,7 +3,20 @@
 
 #include <stdio.h>
 
-int main()
+
+
+int main(void)
 {
-      
+    //static int g_lastLinkedListError = 0;
+/*
+1)no list
+2)no node
+3)no value
+
+	int getLastLinkedListError(void)
+	{
+		return g_lastLinkedListError;
+	}  */
+
+	return 0;
 }
